@@ -1,0 +1,9 @@
+[submodule "hogwarts-backend"]
+	path = hogwarts-backend
+	url = https://github.com/KuratZero/hogwarts-backend.git
+[submodule "hogwarts-backend-images"]
+	path = hogwarts-backend-images
+	url = https://github.com/KuratZero/hogwarts-backend-images.git
+[submodule "hogwarts-frontend"]
+	path = hogwarts-frontend
+	url = https://github.com/KuratZero/hogwarts-frontend.git
