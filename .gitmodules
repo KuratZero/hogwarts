@@ -7,3 +7,6 @@
 [submodule "hogwarts-frontend"]
 	path = hogwarts-frontend
 	url = https://github.com/KuratZero/hogwarts-frontend.git
+[submodule "hogwarts-dcomp"]
+	path = hogwarts-dcomp
+	url = https://github.com/KuratZero/hogwarts-dcomp.git
